@@ -8,18 +8,4 @@ relative_links:
 include:
   - README.md
   - RAYCASTING001.md
-C:
-  type: programming
-  color: "#555555"
-  extensions:
-  - ".c"
-  - ".cats"
-  - ".h"
-  - ".idc"
-  interpreters:
-  - tcc
-  tm_scope: source.c
-  ace_mode: c_cpp
-  codemirror_mode: clike
-  codemirror_mime_type: text/x-csrc
-  language_id: 41
+highlighter: c
