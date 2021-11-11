@@ -68,7 +68,6 @@ typedef struct ray_t {
     int IsRayFacingLeft;
     int IsRayFacingRight;
     int WallHitContent; // For ex. color or texture index.
-    // TODO: Remove this unnecessary crap
 } ray_t;
 
 ray_t Rays[NUM_RAYS];
