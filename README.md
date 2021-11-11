@@ -1,3 +1,3 @@
 # First
 Testing testing.
-[TESTPAGE](Test page)
+[Test Page](TESTPAGE)
