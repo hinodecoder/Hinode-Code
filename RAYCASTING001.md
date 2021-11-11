@@ -14,7 +14,7 @@ So this is a record of what I do and let’s see if I’ll do it.
 
 Here is code I’ve written so far based on Pikuma course. It’s just a record before I set up proper GitHub repository and make it more “multiplatform”.
 
-```
+```C
 #include <stdio.h>
 #include <limits.h>
 #include <SDL2/SDL.h>
@@ -544,7 +544,7 @@ int main(void) {
 
 And missing consts.h file with some, well, consts.
 
-```
+```C
 #ifndef CONSTS_H
 #define CONSTS_H
 
