@@ -1,4 +1,4 @@
-Welcome at Hinode Code. I create stuff and try to write about it.
+Welcome.
 
 ___
 
