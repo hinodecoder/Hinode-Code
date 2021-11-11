@@ -1,7 +1,10 @@
 theme: jekyll-theme-tactile
+title: Hinode Code
+description: Trying to do stuff and write about it
+show_downloads: false
 relative_links:
   enabled: true
   collections: true
 include:
   - README.md
-  - TESTPAGE.md
+  - RAYCASTING001.md
