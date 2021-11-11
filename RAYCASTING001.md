@@ -1,1 +1,1 @@
-# Raycasting Game in C - 1
+Raycasting Game in C - 1
