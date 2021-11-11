@@ -2,4 +2,4 @@
 
 ***Raycasting Game in C - 1***
 
-![Corridor, 1, screenshot](data/Corridor001.png)
+![Corridor, 1, screenshot](/data/corridor001.png)
