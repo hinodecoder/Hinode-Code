@@ -16,6 +16,8 @@ So this is a record of what I do and let’s see if I’ll do it.
 
 Here is code I’ve written so far based on Pikuma course. It’s just a record before I set up proper GitHub repository and make it more “multiplatform”.
 
+***This code is a mess. Don't use it. I assure you that I'll post better code when raycaster will looks like something useful. For now it's some crazy stuff in one place.***
+
 ```C
 #include <stdio.h>
 #include <limits.h>
