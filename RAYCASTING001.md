@@ -18,7 +18,7 @@ Here is code I’ve written so far based on Pikuma course. It’s just a record 
 
 ***This code is a mess. Don't use it. I assure you that I'll post better code when raycaster will looks like something useful. For now it's some crazy stuff in one place.***
 
-```C
+```
 #include <stdio.h>
 #include <limits.h>
 #include <SDL2/SDL.h>
@@ -547,7 +547,7 @@ int main(void) {
 
 And missing consts.h file with some, well, consts.
 
-```C
+```
 #ifndef CONSTS_H
 #define CONSTS_H
 
