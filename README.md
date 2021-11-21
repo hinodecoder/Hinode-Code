@@ -5,3 +5,5 @@ This is blog with record of progress on code during preparation and participatio
 [Raycasting Game in C - 1](RAYCASTING001)
 
 [Raycasting Game in C - 2](RAYCASTING002)
+
+[Raycasting Game in C - 3](RAYCASTING003)
