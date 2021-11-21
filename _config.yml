@@ -5,3 +5,8 @@ show_downloads: false
 relative_links:
   enabled: true
   collections: true
+include:
+   - README.md
+   - RAYCASTING001.md
+   - RAYCASTING002.md
+   - RAYCASTING003.md
