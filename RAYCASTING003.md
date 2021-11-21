@@ -12,7 +12,7 @@ Since the last time I've did a little bit of refactoring. Some code was moved to
 
 I've also added simple "shading" technique to wall rendering. It's clean and do it's job. It detects what kind of ray hit that was (horizontal or vertical) and changes texture's texel color to a bit dimmed. You could see it on a screenshot above. Here's some code that do this:
 
-'''
+```
 // Set color from sample texture.
 uint32_t TexelColor = TextureBuffer[(TextureW * TextureOffsetY) + TextureOffsetX];
 
@@ -21,7 +21,7 @@ if (Rays[x].WasHitVertical) {
 }
 
 WriteColorBuffer(x, y, TexelColor);
-'''
+```
 
 Next time there will be some sprites, so everything will come to life a little bit.
 
