@@ -1,4 +1,3 @@
-### Welcome and sorry for a lack of content ###
-I'm working on some new and exciting projects right now. Please be patient.
-See ya!
+### Welcome ###
+[Raycasting WIP #1](Raycasting001.md)
 #### Hinode Coder [@HinodeCoder](https://twitter.com/HinodeCoder) ####
